@@ -1,0 +1,15 @@
+{
+  "name": "ieee-paper-fullbuild",
+  "version": "1.6.0",
+  "description": "IEEE conference paper full-build plugin. Converts structured Markdown into template-faithful IEEE Word output with author preservation, automatic numbering discipline, structure gates, and 15 final invariants.",
+  "author": {
+    "name": "IEEE Paper Tools"
+  },
+  "keywords": [
+    "ieee",
+    "conference-paper",
+    "academic-writing",
+    "paper-formatting",
+    "docx"
+  ]
+}
